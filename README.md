@@ -7,6 +7,6 @@ Performing analysis on Kickstarter data to uncover new trends
 ---
 ![Outcomes Based on Lauch Date](https://user-images.githubusercontent.com/112291888/187837112-eb2c5096-fbf5-4e37-b1c5-21c42d30335a.png)
 ---
-![Parent Category Outcomes.png](UC Davis/Parent Category Outcomes.png)
+![Parent Category Outcomes 2](https://user-images.githubusercontent.com/112291888/187837205-3d896c78-fe5f-4a70-93eb-638f010c8f73.png)
 ---
 Recomendtions moving forward are to create your kickstarter campaign around February or May of the upcoming year, make the goal around between $5,000-$10,000, and create several different pledge options with a broad range of values as enticement for peoples of all types to donate. Recommendation for the Musical in Great Britain is to create the Kickstarter campaign around the same time of year with a goal amount of between $2,000-$4,000.
